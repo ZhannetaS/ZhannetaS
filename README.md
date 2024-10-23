@@ -16,4 +16,4 @@
 - I'm looking for a job in DS and will be happy to join your community and share my knowledge and experience.
 
 
-[telegram]: https://t.me/@zhanneta_smirnova
+[telegram]: ([https://t.me/@zhanneta_smirnova])
