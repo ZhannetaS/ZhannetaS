@@ -17,4 +17,4 @@
 
 
 ### Connect with me:
-[<img align="left" alt="ZhannetaS | Telegram" width="22px" src="[https://t.me/.]" />][telegram]
+[https://t.me/.]
