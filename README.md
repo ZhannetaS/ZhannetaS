@@ -18,5 +18,6 @@
 
 ### Connect with me:
 
-https://smirnova_zhanneta@mail.ru
+smirnova_zhanneta@mail.ru
+
 https://t.me/zhanneta_smirnova
