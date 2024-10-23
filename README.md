@@ -14,3 +14,6 @@
 - I’m currently actively engaged in self-education and studying Data Analysis, ML and various tools and technologies, such as Python, SQL, TensorFlow, Keras, NumPy, Pandas and others
   
 - I'm looking for a job in DS and will be happy to join your community and share my knowledge and experience.
+
+
+[telegram]: @zhanneta_smirnova
