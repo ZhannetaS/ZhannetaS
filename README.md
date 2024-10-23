@@ -17,4 +17,4 @@
 
 
 ### Connect with me:
-[https://t.me/.]
+https://t.me/zhanneta_smirnova
